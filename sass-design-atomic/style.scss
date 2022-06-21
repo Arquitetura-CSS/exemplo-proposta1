@@ -1,0 +1,22 @@
+/* Configurações básicas do projeto - VARIÁVEIS */
+@import '#00-core/variables/align';
+@import '#00-core/variables/border';
+@import '#00-core/variables/color';
+@import '#00-core/variables/font';
+@import '#00-core/variables/height';
+@import '#00-core/variables/margin';
+@import '#00-core/variables/padding';
+
+/* Configurações básicas do projeto - CORE */
+@import '#00-core/scaffolding';
+@import '#00-core/utilies';
+
+/* Classes individuais e elementos pequenos e reutilizáveis - ÁTOMOS */
+@import '#01-atoms/text';
+
+/* Cria um elemento 'pai' para modificar os átomos - MOLÉCULAS */
+@import '#02-molecules/button';
+
+/* Estruturas maiores do projeto, que podem modificar átomos e moléculas - ORGANISMOS*/
+@import '#03-organisms/content';
+@import '#03-organisms/modal';

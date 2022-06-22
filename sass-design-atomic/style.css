@@ -48,12 +48,12 @@ html {
     NÃO é uma classe, ele fará apenas a conexão dos elementos principais da modal.
 */
 /* Classes individuais e elementos pequenos e reutilizáveis - ÁTOMOS */
-.is-title__headline {
+.a-title__headline {
   font-size: 1.85rem;
   font-weight: bold;
   line-height: 2.2rem; }
 
-.is-title__modal {
+.a-title__modal {
   font-size: 1.57rem;
   line-height: 1.85rem; }
 

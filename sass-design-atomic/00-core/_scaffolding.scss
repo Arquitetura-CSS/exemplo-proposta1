@@ -5,13 +5,7 @@
       - body
 */
 
-html, 
-body, 
-label {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+@use "." as *;
 
 html {
     color: $color__main_text;

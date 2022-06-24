@@ -4,7 +4,6 @@ Nesse projeto foi exemplificado o uso de uma página de um projeto qualquer com 
 - [CSS (Cascading Style Sheets)](https://www.w3.org/Style/CSS/Overview.en.html)
 - [SASS (Syntactically Awesome StyleSheets)](https://sass-lang.com/)
 - [Namespaces CSS](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
-- [SMACSS (Scalable and Modular Architecture for CSS)](http://smacss.com/)
 - [BEM (Block-Element-Modifier)](http://getbem.com/)
 - [Figma (Design tokens)](https://medium.com/localizalabs/design-tokens-solu%C3%A7%C3%A3o-para-padroniza%C3%A7%C3%A3o-de-estilos-e-alinhamento-entre-designers-e-desenvolvedores-a58d8a3eab3a)
 
